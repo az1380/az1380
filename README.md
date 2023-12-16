@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @az1380
+- 👋 Hi, I’m Ali Ziarati
 - 👀 I’m interested in coding and also gaming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on backend developer
+- 🌱 I’m currently learning mern-stack(mongoDb-express-react-node)
+- 💞️ I’m looking to collaborate on Full-stack developing
 - 📫 How to reach me ...
 
 <!---
